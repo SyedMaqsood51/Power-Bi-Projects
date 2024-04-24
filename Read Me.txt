@@ -1,0 +1,6 @@
+Project : KPMG Virtaul Intership
+
+This project contains Power Bi Dashboard for the spocket center a ecommerce bike seller.
+Few of the techniques used in this project Data Exploration, Model Development and Interpretation.
+
+
